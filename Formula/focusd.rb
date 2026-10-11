@@ -1,8 +1,8 @@
 class Focusd < Formula
   desc "Beautiful terminal pomodoro timer with daemon, waybar integration and TUI"
   homepage "https://github.com/bibekbhusal0/focusd"
-  url "https://github.com/bibekbhusal0/focusd/archive/refs/tags/v0.2.13.tar.gz"
-  sha256 "f732f3e87d3987e7f5fad2b803df3985a144db973f3b8ce02b0859a2681137ec"
+  url "https://github.com/bibekbhusal0/focusd/archive/refs/tags/v0.2.14.tar.gz"
+  sha256 "6251e455fd40f85791ed047561cf8c645dcbf5c6fe6ee7f322738805d060dbe8"
   license "MIT"
   head "https://github.com/bibekbhusal0/focusd.git", branch: "master"
 
